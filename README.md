@@ -4,7 +4,7 @@
 
 ## Проект размещен на Streamlit!
     Ссылка на Streamlit: <в процессе добавления>
-### Исходный код в формате IPYNB: [main.ipynb](https://github.com/rtccreator/data_hse_project2023/blob/main/main.ipynb)
+### Исходный код в формате IPYNB: [main.ipynb](https://github.com/newlevel7/project_work/blob/main/main.ipynb)
 
 #### Что такое Studobot?
     Это универсальный бот-помощник для студента, который умеет:
